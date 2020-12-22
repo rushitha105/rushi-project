@@ -1,1 +1,2 @@
 # rushi-project
+hello
